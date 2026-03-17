@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 44 56" xmlns="http://www.w3.org/2000/svg">
+  <!-- Purple card -->
+  <rect fill="#6C5CE7" rx="9" height="56" width="44" y="0" x="0"/>
+  <!-- Resume lines -->
+  <rect opacity="0.9" fill="white" rx="1.5" height="3.5" width="20" y="13" x="9"/>
+  <rect opacity="0.6" fill="white" rx="1.5" height="3.5" width="16" y="23" x="9"/>
+  <rect opacity="0.35" fill="white" rx="1.5" height="3.5" width="12" y="33" x="9"/>
+  <!-- Dark triangle corner fold -->
+  <polygon fill="#4834C9" points="26.882,-3.235 26.882,7.765 38.882,-3.235"/>
+  <!-- Yellow circle -->
+  <circle fill="#FDCB6E" r="8" cy="9.235" cx="39.412"/>
+  <!-- Yellow rotated diamond -->
+  <rect transform="rotate(45 32.5 15.382)" fill="#FDCB6E" rx="1" height="5" width="5" y="12.882" x="30"/>
+</svg>
